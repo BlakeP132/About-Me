@@ -1,2 +1,2 @@
-# Projects
-Coding projects 
+Beginner coder planning to work at google
+
