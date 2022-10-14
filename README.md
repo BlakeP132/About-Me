@@ -1,2 +1,1 @@
-Beginner coder planning to work at google
-
+Beginner programmer looking to create big things. 
